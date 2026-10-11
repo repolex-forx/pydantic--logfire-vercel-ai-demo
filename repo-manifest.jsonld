@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-vercel-ai-demo/commit/0623404cc36e173f18b1760803a1c45143cc724d",
       "git:hexsha": "0623404cc36e173f18b1760803a1c45143cc724d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:20:07.507671+00:00"
     }
   ]
 }
