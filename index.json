@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-vercel-ai-demo",
+  "versions": [
+    {
+      "commit": "0623404cc36e173f18b1760803a1c45143cc724d",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:20:07.508262+00:00"
+    }
+  ]
+}
